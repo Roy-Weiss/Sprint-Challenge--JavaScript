@@ -29,4 +29,4 @@ function sumation(number) {
     }
     return counter
 }
-console.log(sumation(6))
+console.log(sumation(4))
